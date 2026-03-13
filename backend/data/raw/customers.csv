@@ -1,0 +1,5 @@
+customer_id,name,email,region,signup_date
+1,John Doe,JOHN@email.com,North,2022-01-01
+2,Alice Smith,alice@email.com,South,2022-03-02
+3,Bob Brown,,East,2022-04-05
+1,John Doe,john@email.com,North,2022-05-01
